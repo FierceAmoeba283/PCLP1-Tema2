@@ -1,0 +1,13 @@
+Enuntul temei il puteti gasi la linkul: https://ocw.cs.pub.ro/courses/programare/teme_2024/tema2_2024_cbd
+
+Task1: Daca cele trei coordonate sunt in limitele chunk-ului, plaseaza blocul
+Task2: Verific coordonatele specificate si le reduc la limitele chunk-ului, urmand sa umplu paralelipipedul in limitele specificate
+Task3: Folosind ecuatia sferei reusim sa gasim blocurile ce trebuie plasate pentru a forma o sfera
+Task4: Am folosit task-ul anterior, in jurul fiecarui bloc punand o sfera, avand grija sa nu suprascriem blocurile ce se regaseau initial in chunk
+Task5: Am folosit metoda DFS pentru a gasi blocurile alaturate de acelasi tip ce trebuiesc inlocuite cu blocul cerut
+Task6: Am rezolvat ca la task-ul anterior, insa in 3 dimensiuni
+Task7: Am declarat un chunk secundar in care am introdus elementele rotite, pentru a facilita rezolvarea mai usoara
+Task8:
+Task9: Parcurgand chunkul am tinut minte tipul de bloc, precum si numarul sau de aparitii, odata cu schimbarea tipului de bloc avand grija sa introduc
+informatiile in vectorul de unsigned char
+Task10: Folosind masti, precum si shiftari am izolat informatiile din vectoru de unsigned char pentru a putea in final reconstrui chunk-ul
