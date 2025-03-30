@@ -7,7 +7,7 @@ Task4: Am folosit task-ul anterior, in jurul fiecarui bloc punand o sfera, avand
 Task5: Am folosit metoda DFS pentru a gasi blocurile alaturate de acelasi tip ce trebuiesc inlocuite cu blocul cerut
 Task6: Am rezolvat ca la task-ul anterior, insa in 3 dimensiuni
 Task7: Am declarat un chunk secundar in care am introdus elementele rotite, pentru a facilita rezolvarea mai usoara
-Task8:
+Task8: NU FUNCTIONEAZA
 Task9: Parcurgand chunkul am tinut minte tipul de bloc, precum si numarul sau de aparitii, odata cu schimbarea tipului de bloc avand grija sa introduc
 informatiile in vectorul de unsigned char
 Task10: Folosind masti, precum si shiftari am izolat informatiile din vectoru de unsigned char pentru a putea in final reconstrui chunk-ul
